@@ -1,0 +1,23 @@
+{
+    "name": "wp-gtalarm",
+    "version": "0.3.0",
+    "description": "Tema per wordpress con integrazione di foundation 6",
+    "scripts": {
+      "start": "gulp",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://klaudio2macnil@bitbucket.org/klaudio2macnil/wp-gtalarm.git"
+    },
+    "author": "Klaudio Bojaxhiu",
+    "license": "ISC",
+    "homepage": "https://bitbucket.org/klaudio2macnil/wp-gtalarm#readme",
+    "devDependencies": {
+      "gulp": "^3.9.0",
+      "gulp-autoprefixer": "^3.1.0",
+      "gulp-load-plugins": "^1.1.0",
+      "gulp-sass": "^2.1.0"
+    }
+  }
+  

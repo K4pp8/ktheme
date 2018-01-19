@@ -11,3 +11,10 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+.DS_Store
+node_modules
+npm-debug.log
+bower_components
+statics
+dist
+*.swp
